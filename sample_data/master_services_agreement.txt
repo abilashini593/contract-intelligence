@@ -1,0 +1,53 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is made and entered into as of March 1, 2026 ("Effective Date"), by and between:
+
+Apex Cloud Solutions Inc., a Delaware corporation with its principal place of business at 100 Innovation Way, Suite 400, Wilmington, DE 19801 ("Vendor" or "Service Provider"), and
+Meridian Financial Corp., a New York corporation with its principal place of business at 500 Wall Street, 20th Floor, New York, NY 10005 ("Client" or "Company").
+
+Vendor and Client may collectively be referred to as the "Parties" or individually as a "Party."
+
+RECITALS
+WHEREAS, Vendor provides cloud infrastructure, data processing, and compliance hosting services; and
+WHEREAS, Client desires to retain Vendor to perform services as set forth herein and in applicable Statements of Work.
+
+NOW, THEREFORE, the Parties agree as follows:
+
+SECTION 1. TERM AND EXPIRATION
+1.1 Initial Term. This Agreement shall commence on the Effective Date (March 1, 2026) and continue in full force for a period of two (2) years, terminating on February 29, 2028 ("Initial Term"), unless earlier terminated in accordance with Section 3.
+
+SECTION 2. RENEWAL AND NOTICE
+2.1 Automatic Renewal. Following the Initial Term, this Agreement shall automatically renew for successive one (1) year periods (each, a "Renewal Term"), unless either Party delivers written notice of non-renewal to the other Party at least sixty (60) days prior to the expiration of the then-current term.
+2.2 Notice Requirement. All notices under this Agreement must be delivered in writing by certified mail or reputable overnight courier to the addresses specified above. Delivery by electronic mail shall not constitute valid legal notice unless formally acknowledged by an executive officer.
+
+SECTION 3. TERMINATION
+3.1 Termination for Convenience. Client may terminate this Agreement or any Statement of Work without cause at any time by providing ninety (90) days prior written notice to Vendor.
+3.2 Termination for Cause. Either Party may terminate this Agreement immediately upon written notice if the other Party materially breaches any provision of this Agreement and fails to cure such breach within thirty (30) days of receiving written notice thereof.
+3.3 Insolvency. Either Party may terminate immediately upon written notice if the other Party enters into bankruptcy or insolvency proceedings.
+
+SECTION 4. KEY OBLIGATIONS AND DEADLINES
+4.1 SOC 2 Audit Obligation. Vendor shall provide Client with an updated, certified SOC 2 Type II compliance audit report annually, with the next delivery deadline on or before September 30, 2026.
+4.2 Incident Notification. In the event of a confirmed security incident or data breach affecting Client Data, Vendor shall notify Client without unreasonable delay, and in no event later than seventy-two (72) hours after confirmation.
+4.3 Invoicing and Payment. Vendor shall invoice Client on the first business day of each calendar month. Client shall pay all undisputed invoice amounts within thirty (30) days from the invoice date. Late payments shall accrue interest at 1.5% per month.
+4.4 Quarterly Performance Review. The Parties shall conduct a joint quarterly operational and security review meeting within fifteen (15) calendar days following the close of each fiscal quarter.
+4.5 Data Return and Deletion. Within thirty (30) days following termination or expiration of this Agreement, Vendor shall return or permanently delete all Client Confidential Information and certify destruction in writing.
+
+SECTION 5. GOVERNING LAW AND DISPUTE RESOLUTION
+5.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to conflicts of law principles.
+5.2 Jurisdiction. Any dispute arising out of or related to this Agreement shall be subject to the exclusive jurisdiction of the state and federal courts located in New York County, New York.
+
+SECTION 6. AMBIGUOUS AND OPEN TERMS
+6.1 Disaster Recovery Standard. Vendor agrees to maintain disaster recovery procedures adhering to "commercially standard practices and general industry benchmarks" with target recovery time objectives to be mutually agreed in good faith.
+6.2 Service Level Adjustments. Vendor reserves the right to modify service level agreements upon reasonable notice, provided overall performance is not materially degraded.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+APEX CLOUD SOLUTIONS INC.
+By: /s/ Marcus Vance
+Name: Marcus Vance
+Title: Chief Operating Officer
+
+MERIDIAN FINANCIAL CORP.
+By: /s/ Sarah Jenkins
+Name: Sarah Jenkins
+Title: Vice President of Technology

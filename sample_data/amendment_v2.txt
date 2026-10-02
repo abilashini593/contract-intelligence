@@ -1,0 +1,32 @@
+AMENDMENT NO. 1 TO MASTER SERVICES AGREEMENT (VERSION 2)
+
+This Amendment No. 1 ("Amendment" or "Version 2") is entered into as of May 1, 2026, by and between Apex Cloud Solutions Inc. ("Vendor") and Meridian Financial Corp. ("Client"), modifying the Master Services Agreement dated March 1, 2026.
+
+REVISED PROVISIONS:
+
+1. MODIFIED TERM AND EXPIRATION
+Section 1.1 of the Agreement is hereby amended and restated as follows:
+"1.1 Term Extension. The Initial Term shall continue through December 31, 2028 ('Extended Expiration Date'), unless earlier terminated in accordance with the Agreement."
+
+2. MODIFIED RENEWAL NOTICE WINDOW
+Section 2.1 of the Agreement is hereby amended as follows:
+"2.1 Non-Renewal Notice. Either Party may terminate automatic renewal by delivering written notice at least thirty (30) days prior to the expiration date (reduced from sixty (60) days)."
+
+3. REVISED BREACH NOTIFICATION TIMEFRAME
+Section 4.2 of the Agreement is hereby amended to read:
+"4.2 Expedited Incident Notification. Vendor shall formally notify Client of any confirmed security incident or data breach within twenty-four (24) hours of confirmation (reduced from 72 hours)."
+
+4. MODIFIED PAYMENT TERMS
+Section 4.3 of the Agreement is hereby amended as follows:
+"4.3 Payment Deadline. Client shall pay all undisputed invoice amounts within forty-five (45) days from the invoice date (extended from 30 days)."
+
+5. RATIFICATION
+Except as specifically amended herein, all terms and conditions of the Master Services Agreement remain in full force and effect.
+
+IN WITNESS WHEREOF, the Parties have executed this Amendment No. 1 as of May 1, 2026.
+
+APEX CLOUD SOLUTIONS INC.
+By: /s/ Marcus Vance, COO
+
+MERIDIAN FINANCIAL CORP.
+By: /s/ Sarah Jenkins, VP Technology

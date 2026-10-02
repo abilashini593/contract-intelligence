@@ -1,0 +1,17 @@
+MERIDIAN FINANCIAL CORP. - VENDOR COMPLIANCE & SECURITY POLICY
+Document Version: 3.2
+Effective Date: January 1, 2026
+
+POLICY DIRECTIVE: THIRD-PARTY CONTRACTUAL CONTROLS
+
+1. SECURITY INCIDENT NOTIFICATION MANDATE
+Section 1.1: Meridian Financial Corp. requires all third-party cloud vendors and contractors to provide formal written notification of any suspected or confirmed data breach or security incident within twenty-four (24) hours of detection. Agreements permitting notification beyond 24 hours (e.g., 48 or 72 hours) are strictly non-compliant with corporate governance standards and regulatory obligations.
+
+2. CONTRACT RENEWAL AND NOTICE PERIODS
+Section 2.1: To prevent inadvertent long-term renewals, contractual non-renewal notice periods must not exceed thirty (30) days prior to the expiration of any contract term. Renewal terms requiring notice beyond 30 days (such as 60 or 90 days) require written approval from the Chief Legal Officer.
+
+3. DATA RECOVERY AND SLA BENCHMARKS
+Section 3.1: All vendor contracts involving core financial or client data must explicitly document specific Recovery Time Objectives (RTO <= 4 hours) and Recovery Point Objectives (RPO <= 1 hour). Vague commitments to "industry standards" or "good faith mutual agreement" are impermissible.
+
+4. PERMISSIBLE NOTICE TRANSMISSION
+Section 4.1: To ensure operational efficiency, contractual notices must allow transmission via authenticated electronic mail (email) to dedicated corporate legal and compliance aliases. Clauses requiring exclusively physical courier or certified mail are prohibited.
