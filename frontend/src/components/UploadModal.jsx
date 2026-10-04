@@ -171,7 +171,20 @@ export default function UploadModal({ isOpen, onClose, onSuccess, existingContra
             </div>
 
             {contractMode === 'file' ? (
-              <div className="border-2 border-dashed border-slate-300 hover:border-sky-400 rounded-xl p-6 text-center transition-colors bg-slate-50/50">
+              <div
+                onDragOver={(e) => {
+                  e.preventDefault();
+                  e.stopPropagation();
+                }}
+                onDrop={(e) => {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  if (e.dataTransfer.files && e.dataTransfer.files[0]) {
+                    setContractFile(e.dataTransfer.files[0]);
+                  }
+                }}
+                className="border-2 border-dashed border-slate-300 hover:border-sky-400 rounded-xl p-6 text-center transition-colors bg-slate-50/50 cursor-pointer"
+              >
                 <input
                   type="file"
                   id="contract-file"
